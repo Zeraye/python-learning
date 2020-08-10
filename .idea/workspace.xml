@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81de94c3-dd57-4765-b2a1-a568bb2ebbd0" name="Default Changelist" comment="it-homework03 added">
+      <change afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/95f6edfb66ef42d774a5a34581f19052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adidas-bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthday-json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthday-json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/click.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag-string-finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-challenges.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ig-acc-creator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ig-accs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/margonem-captcha-percent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namecensus-reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pw-competition09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pw-competition10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quadratic-equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shots-counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stoper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/surnames-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tic-tac-toe-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/war-card-game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xor_gate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculations-formula.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculations-formula.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/double-char.py" beforeDir="false" afterPath="$PROJECT_DIR$/double-char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make-bricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/make-bricks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pw-competiton02.py" beforeDir="false" afterPath="$PROJECT_DIR$/pw-competition02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roulette-bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/roulette-bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roulette-game-green.py" beforeDir="false" afterPath="$PROJECT_DIR$/roulette-game-green.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/PythonLearning.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PNnqmFZnNzPT3e6hbtmDJagmvQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python37" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.shots-counter">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ig-acc-creator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ig-acc-creator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random-expression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random-expression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roulette-bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roulette-bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shots-counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shots-counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test-something" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-something.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shots-counter" />
+        <item itemvalue="Python.random-expression" />
+        <item itemvalue="Python.roulette-bot" />
+        <item itemvalue="Python.ig-acc-creator" />
+        <item itemvalue="Python.test-something" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81de94c3-dd57-4765-b2a1-a568bb2ebbd0" name="Default Changelist" comment="files rename, translation to english" />
+      <created>1565723614717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565723614717</updated>
+      <workItem from="1584549708977" duration="159000" />
+      <workItem from="1584549878713" duration="2000" />
+      <workItem from="1584549988037" duration="350000" />
+      <workItem from="1584694165498" duration="205000" />
+      <workItem from="1584694391596" duration="6000" />
+      <workItem from="1584959161176" duration="820000" />
+      <workItem from="1585151284600" duration="4223000" />
+      <workItem from="1585257480572" duration="613000" />
+      <workItem from="1585411203434" duration="275000" />
+      <workItem from="1585415208721" duration="163000" />
+      <workItem from="1585596219070" duration="1220000" />
+      <workItem from="1585729991866" duration="1698000" />
+      <workItem from="1585753439311" duration="401000" />
+      <workItem from="1585853468664" duration="36000" />
+      <workItem from="1585853537247" duration="22000" />
+      <workItem from="1585853568513" duration="21000" />
+      <workItem from="1586870958322" duration="410000" />
+      <workItem from="1586871397287" duration="285000" />
+      <workItem from="1586882918309" duration="2000" />
+      <workItem from="1586887498155" duration="840000" />
+      <workItem from="1586939630935" duration="4754000" />
+      <workItem from="1586974466897" duration="4582000" />
+      <workItem from="1587049721237" duration="51000" />
+      <workItem from="1587063292193" duration="3982000" />
+      <workItem from="1587120415767" duration="5000" />
+      <workItem from="1587125614476" duration="663000" />
+      <workItem from="1587134596033" duration="29000" />
+      <workItem from="1587470270212" duration="298000" />
+      <workItem from="1587470597513" duration="81000" />
+      <workItem from="1587470699723" duration="507000" />
+      <workItem from="1587471218375" duration="1004000" />
+      <workItem from="1587673988458" duration="110000" />
+      <workItem from="1587674111252" duration="3524000" />
+      <workItem from="1587707981813" duration="1692000" />
+      <workItem from="1587710744479" duration="168000" />
+      <workItem from="1587711811872" duration="1301000" />
+      <workItem from="1587717938042" duration="770000" />
+      <workItem from="1587742160081" duration="830000" />
+      <workItem from="1587752612314" duration="4010000" />
+      <workItem from="1587794260443" duration="1367000" />
+      <workItem from="1587810824921" duration="2301000" />
+      <workItem from="1587831647967" duration="5000" />
+      <workItem from="1587838516282" duration="8000" />
+      <workItem from="1587838543307" duration="6000" />
+      <workItem from="1587838564817" duration="3000" />
+      <workItem from="1587981635035" duration="1095000" />
+      <workItem from="1587982927434" duration="691000" />
+      <workItem from="1587988623373" duration="471000" />
+      <workItem from="1587989104205" duration="2700000" />
+      <workItem from="1587991970101" duration="49000" />
+      <workItem from="1588096297323" duration="17000" />
+      <workItem from="1589032092816" duration="2025000" />
+      <workItem from="1589037410580" duration="160000" />
+      <workItem from="1589192864230" duration="16000" />
+      <workItem from="1589205611974" duration="6000" />
+      <workItem from="1589225523636" duration="11000" />
+      <workItem from="1589567733361" duration="367000" />
+      <workItem from="1589568315269" duration="158000" />
+      <workItem from="1589568480136" duration="3571000" />
+      <workItem from="1589612832106" duration="11000" />
+      <workItem from="1590171891443" duration="3936000" />
+      <workItem from="1590214758947" duration="903000" />
+      <workItem from="1590219997481" duration="188000" />
+      <workItem from="1590222325376" duration="1500000" />
+      <workItem from="1590315516893" duration="42000" />
+      <workItem from="1590390446090" duration="2103000" />
+      <workItem from="1590402268904" duration="2393000" />
+      <workItem from="1590406145572" duration="295000" />
+      <workItem from="1590488955832" duration="23000" />
+      <workItem from="1590524297155" duration="3514000" />
+      <workItem from="1591042311261" duration="8000" />
+      <workItem from="1591046354886" duration="6159000" />
+      <workItem from="1591082959577" duration="8075000" />
+      <workItem from="1591356198539" duration="22000" />
+      <workItem from="1591437912175" duration="72000" />
+      <workItem from="1591469034150" duration="2000" />
+      <workItem from="1591534604021" duration="1028000" />
+      <workItem from="1591540077648" duration="23000" />
+      <workItem from="1592028231144" duration="3877000" />
+      <workItem from="1592061151719" duration="3000" />
+      <workItem from="1592310774244" duration="1019000" />
+      <workItem from="1592561226475" duration="680000" />
+      <workItem from="1592571941400" duration="5000" />
+      <workItem from="1592656048314" duration="4608000" />
+      <workItem from="1592671794879" duration="2595000" />
+      <workItem from="1592748309231" duration="1980000" />
+      <workItem from="1592943701632" duration="702000" />
+      <workItem from="1593021719242" duration="1336000" />
+      <workItem from="1593030281925" duration="4000" />
+      <workItem from="1593178940233" duration="533000" />
+      <workItem from="1593289545775" duration="20000" />
+      <workItem from="1593375908589" duration="761000" />
+      <workItem from="1593423944644" duration="15000" />
+      <workItem from="1593424438979" duration="22000" />
+      <workItem from="1593432059106" duration="4313000" />
+      <workItem from="1593449777181" duration="236000" />
+      <workItem from="1593495991020" duration="1194000" />
+      <workItem from="1593519003835" duration="1645000" />
+      <workItem from="1593636922008" duration="187000" />
+      <workItem from="1593762894156" duration="592000" />
+      <workItem from="1593777048476" duration="599000" />
+      <workItem from="1594122692210" duration="22000" />
+      <workItem from="1594553570460" duration="207000" />
+      <workItem from="1594553806096" duration="9000" />
+      <workItem from="1594553834139" duration="695000" />
+      <workItem from="1594667516331" duration="2714000" />
+      <workItem from="1594705084498" duration="2046000" />
+      <workItem from="1594711752686" duration="5143000" />
+      <workItem from="1594730147369" duration="649000" />
+      <workItem from="1594735489029" duration="2605000" />
+      <workItem from="1594746894207" duration="4748000" />
+      <workItem from="1594791493049" duration="6578000" />
+      <workItem from="1594810859551" duration="140000" />
+      <workItem from="1594815009502" duration="647000" />
+      <workItem from="1594819547919" duration="8273000" />
+      <workItem from="1594895869875" duration="1219000" />
+      <workItem from="1594901425960" duration="657000" />
+      <workItem from="1594908363422" duration="666000" />
+      <workItem from="1594928451494" duration="151000" />
+      <workItem from="1594928613014" duration="2000" />
+      <workItem from="1594976818318" duration="738000" />
+      <workItem from="1595149135081" duration="10000" />
+      <workItem from="1595268411724" duration="901000" />
+      <workItem from="1595269321591" duration="110000" />
+      <workItem from="1595269439420" duration="468000" />
+      <workItem from="1595269994779" duration="30000" />
+      <workItem from="1595272266283" duration="517000" />
+      <workItem from="1595498320090" duration="3753000" />
+    </task>
+    <task id="LOCAL-00015" summary="#12 exercise added">
+      <created>1565805687028</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1565805687028</updated>
+    </task>
+    <task id="LOCAL-00016" summary="#13 exercise added">
+      <created>1565806378557</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1565806378557</updated>
+    </task>
+    <task id="LOCAL-00017" summary="#14 exercise added">
+      <created>1565806785261</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1565806785261</updated>
+    </task>
+    <task id="LOCAL-00018" summary="#5 exercise revised">
+      <created>1565807302435</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1565807302435</updated>
+    </task>
+    <task id="LOCAL-00019" summary="#15 exercise added">
+      <created>1565809104116</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1565809104116</updated>
+    </task>
+    <task id="LOCAL-00020" summary="#16 exercise added">
+      <created>1565812317691</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1565812317691</updated>
+    </task>
+    <task id="LOCAL-00021" summary="#16 exercise fixed">
+      <created>1565905808265</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1565905808265</updated>
+    </task>
+    <task id="LOCAL-00022" summary="#14 exercise fixed">
+      <created>1566153046428</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1566153046428</updated>
+    </task>
+    <task id="LOCAL-00023" summary="cows and bulls game added">
+      <created>1566745728523</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566745728523</updated>
+    </task>
+    <task id="LOCAL-00024" summary="files rename, translation to english">
+      <created>1566747854842</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1566747854842</updated>
+    </task>
+    <task id="LOCAL-00025" summary=".gitignore added">
+      <created>1566748504616</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1566748504616</updated>
+    </task>
+    <task id="LOCAL-00026" summary="README.md added">
+      <created>1566749183747</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1566749183747</updated>
+    </task>
+    <task id="LOCAL-00027" summary="README.md corrected">
+      <created>1566751048631</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1566751048631</updated>
+    </task>
+    <task id="LOCAL-00028" summary="README.md visual changes">
+      <created>1566751180170</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1566751180170</updated>
+    </task>
+    <task id="LOCAL-00029" summary="README.md visual changes">
+      <created>1566751790607</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1566751790607</updated>
+    </task>
+    <task id="LOCAL-00030" summary=".gitignore added new ignored file">
+      <created>1566751902526</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1566751902526</updated>
+    </task>
+    <task id="LOCAL-00031" summary="searching elements in list added">
+      <created>1566753902561</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1566753902561</updated>
+    </task>
+    <task id="LOCAL-00032" summary="counting names in list added">
+      <created>1566759076444</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1566759076444</updated>
+    </task>
+    <task id="LOCAL-00033" summary="printing overlapped numbers added">
+      <created>1567257286152</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1567257286152</updated>
+    </task>
+    <task id="LOCAL-00034" summary="drawing game board added">
+      <created>1567257980805</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1567257980805</updated>
+    </task>
+    <task id="LOCAL-00035" summary="guessing number game added">
+      <created>1567262079532</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1567262079532</updated>
+    </task>
+    <task id="LOCAL-00036" summary="check winner added">
+      <created>1567282517659</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1567282517659</updated>
+    </task>
+    <task id="LOCAL-00037" summary="tic tac toe drawing added">
+      <created>1567284268496</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1567284268496</updated>
+    </task>
+    <task id="LOCAL-00038" summary="checking max number added">
+      <created>1567287667136</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1567287667136</updated>
+    </task>
+    <task id="LOCAL-00039" summary="tic tac toe completed game added">
+      <created>1567288598686</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1567288598686</updated>
+    </task>
+    <task id="LOCAL-00040" summary="picking single word from list added">
+      <created>1567289026623</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1567289026623</updated>
+    </task>
+    <task id="LOCAL-00041" summary="guessing letters added">
+      <created>1567291141691</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1567291141691</updated>
+    </task>
+    <task id="LOCAL-00042" summary="exercise">
+      <created>1572463421718</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1572463421718</updated>
+    </task>
+    <task id="LOCAL-00043" summary="exercise">
+      <created>1572905806243</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1572905806243</updated>
+    </task>
+    <task id="LOCAL-00044" summary="exercise">
+      <created>1572905958065</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1572905958065</updated>
+    </task>
+    <task id="LOCAL-00045" summary="finding high fibonacci numbers">
+      <created>1572906161958</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1572906161958</updated>
+    </task>
+    <task id="LOCAL-00046" summary="twelve exercise from OM">
+      <created>1572906241454</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1572906241454</updated>
+    </task>
+    <task id="LOCAL-00047" summary="twelfth exercise from OM">
+      <created>1572906318793</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1572906318793</updated>
+    </task>
+    <task id="LOCAL-00048" summary="simulation">
+      <created>1576708209784</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1576708209784</updated>
+    </task>
+    <task id="LOCAL-00049" summary="twelfth exercise from OM">
+      <created>1582475207404</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1582475207404</updated>
+    </task>
+    <task id="LOCAL-00050" summary="files added">
+      <created>1582475890431</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1582475890431</updated>
+    </task>
+    <task id="LOCAL-00051" summary="roulette simulation">
+      <created>1582567316109</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1582567316109</updated>
+    </task>
+    <task id="LOCAL-00052" summary="another exercise added">
+      <created>1583438973197</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1583438973197</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fixes">
+      <created>1583440054176</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1583440054176</updated>
+    </task>
+    <task id="LOCAL-00054" summary="another exercise added">
+      <created>1584533019825</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1584533019825</updated>
+    </task>
+    <task id="LOCAL-00055" summary="roulette bot added">
+      <created>1584533061625</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1584533061625</updated>
+    </task>
+    <task id="LOCAL-00056" summary="new thing added">
+      <created>1586978686059</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1586978686059</updated>
+    </task>
+    <task id="LOCAL-00057" summary="tic tac toe first version not finished">
+      <created>1587067559155</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1587067559155</updated>
+    </task>
+    <task id="LOCAL-00058" summary="more it-homework stuff">
+      <created>1587991911009</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1587991911010</updated>
+    </task>
+    <task id="LOCAL-00059" summary="new file added">
+      <created>1587991943524</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1587991943524</updated>
+    </task>
+    <task id="LOCAL-00060" summary="pw comp added">
+      <created>1588961537179</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1588961537179</updated>
+    </task>
+    <task id="LOCAL-00061" summary="pw comp 7 remastered">
+      <created>1588965243382</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1588965243382</updated>
+    </task>
+    <task id="LOCAL-00062" summary="file plemiona-poparcie added">
+      <created>1589034102609</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1589034102610</updated>
+    </task>
+    <task id="LOCAL-00063" summary="it-homework03 added">
+      <created>1590406363764</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1590406363765</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="guessing number game added" />
+    <MESSAGE value="check winner added" />
+    <MESSAGE value="tic tac toe drawing added" />
+    <MESSAGE value="checking max number added" />
+    <MESSAGE value="tic tac toe completed game added" />
+    <MESSAGE value="picking single word from list added" />
+    <MESSAGE value="guessing letters added" />
+    <MESSAGE value="exercise" />
+    <MESSAGE value="finding high fibonacci numbers" />
+    <MESSAGE value="twelve exercise from OM" />
+    <MESSAGE value="simulation" />
+    <MESSAGE value="twelfth exercise from OM" />
+    <MESSAGE value="files added" />
+    <MESSAGE value="roulette simulation" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="another exercise added" />
+    <MESSAGE value="roulette bot added" />
+    <MESSAGE value="new thing added" />
+    <MESSAGE value="tic tac toe first version not finished" />
+    <MESSAGE value="more it-homework stuff" />
+    <MESSAGE value="new file added" />
+    <MESSAGE value="pw comp added" />
+    <MESSAGE value="pw comp 7 remastered" />
+    <MESSAGE value="file plemiona-poparcie added" />
+    <MESSAGE value="it-homework03 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="it-homework03 added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590405632837">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590405632837" />
+    <state x="2614" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594848735824">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="694" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592749669579" />
+    <state x="694" y="327" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1594668024817" />
+    <state x="2614" y="327" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594848735824" />
+    <state x="694" y="327" key="#com.intellij.fileTypes.FileTypeChooser/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589032607768" />
+    <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594849049355">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592750721496" />
+    <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594849049355" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589570039096" />
+    <state x="669" y="120" key="#flag-string-finder" timestamp="1589568342549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="120" key="#flag-string-finder/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1589568342549" />
+    <state x="669" y="120" key="#roulette-simulation" timestamp="1594668085228">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="120" key="#roulette-simulation/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1594668085228" />
+    <state x="614" y="57" width="822" height="966" key="CommitChangelistDialog2" timestamp="1588965242548">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="57" key="CommitChangelistDialog2/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588965242548" />
+    <state x="737" y="284" width="424" height="487" key="FileChooserDialogImpl" timestamp="1595269413918">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="737" y="314" width="424" height="487" key="FileChooserDialogImpl/0.30.1920.1050/1920.0.1920.1080@0.30.1920.1050" timestamp="1594553913231" />
+    <state x="737" y="284" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595269413918" />
+    <state width="1877" height="175" key="GridCell.Tab.0.bottom" timestamp="1595503532623">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595503532623" />
+    <state width="1877" height="175" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594847594879" />
+    <state width="1899" height="351" key="GridCell.Tab.0.bottom/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="914" height="175" key="GridCell.Tab.0.bottom/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591100658448" />
+    <state width="1877" height="175" key="GridCell.Tab.0.center" timestamp="1595503532623">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595503532623" />
+    <state width="1877" height="175" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594847594879" />
+    <state width="1899" height="351" key="GridCell.Tab.0.center/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="914" height="175" key="GridCell.Tab.0.center/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591100658447" />
+    <state width="1877" height="175" key="GridCell.Tab.0.left" timestamp="1595503532623">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595503532623" />
+    <state width="1877" height="175" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594847594879" />
+    <state width="1899" height="351" key="GridCell.Tab.0.left/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="914" height="175" key="GridCell.Tab.0.left/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591100658447" />
+    <state width="1877" height="175" key="GridCell.Tab.0.right" timestamp="1595503532623">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595503532623" />
+    <state width="1877" height="175" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594847594879" />
+    <state width="1899" height="351" key="GridCell.Tab.0.right/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="914" height="175" key="GridCell.Tab.0.right/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591100658448" />
+    <state width="1899" height="351" key="GridCell.Tab.1.bottom" timestamp="1591042809026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.bottom/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="1899" height="351" key="GridCell.Tab.1.bottom/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591032962500" />
+    <state width="1899" height="351" key="GridCell.Tab.1.center" timestamp="1591042809026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.center/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="1899" height="351" key="GridCell.Tab.1.center/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591032962500" />
+    <state width="1899" height="351" key="GridCell.Tab.1.left" timestamp="1591042809026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.left/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="1899" height="351" key="GridCell.Tab.1.left/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591032962500" />
+    <state width="1899" height="351" key="GridCell.Tab.1.right" timestamp="1591042809026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="351" key="GridCell.Tab.1.right/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042809026" />
+    <state width="1899" height="351" key="GridCell.Tab.1.right/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591032962500" />
+    <state x="461" y="168" width="992" height="733" key="SettingsEditor" timestamp="1595269430685">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="198" width="992" height="733" key="SettingsEditor/0.30.1920.1050/1920.0.1920.1080@0.30.1920.1050" timestamp="1594553853014" />
+    <state x="461" y="168" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595269430685" />
+    <state x="2381" y="168" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594669401533" />
+    <state x="461" y="168" key="SettingsEditor/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591042506626" />
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2" timestamp="1590406369502">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="259" key="Vcs.Push.Dialog.v2/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590406369502" />
+    <state x="583" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594754302127">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="583" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1594754302127" />
+    <state x="2503" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1591034182460" />
+    <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591051340362">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591051340362" />
+    <state x="2689" y="542" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.99.1920.1050/0.0.1920.1050@1920.99.1920.1050" timestamp="1587472239785" />
+    <state x="2460" y="180" key="editAsTableFormatDialogDimension" timestamp="1594849020530">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2460" y="180" key="editAsTableFormatDialogDimension/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1594849020530" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1595498885722">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1595498885722" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1591049109262" />
+    <state x="682" y="438" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590173958180">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="682" y="438" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.99.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1590173958180" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonLearning$test_something.coverage" NAME="test-something Coverage Results" MODIFIED="1594847592688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$shots_counter.coverage" NAME="shots-counter Coverage Results" MODIFIED="1595500514578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$xor_gate__1_.coverage" NAME="xor_gate (1) Coverage Results" MODIFIED="1591086139484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$math04.coverage" NAME="math04 Coverage Results" MODIFIED="1592028910923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
